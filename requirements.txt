@@ -1,0 +1,9 @@
+intel-numpy==1.21.5
+matplotlib==3.5.1
+scikit-learn==1.1.2
+scipy==1.9.3
+pandas==1.4.3
+dill==0.3.6
+numexpr==2.8.3
+Cartopy==0.23.0
+shapely==2.0.6
