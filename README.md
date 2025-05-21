@@ -23,7 +23,7 @@ The following code shows how to run the proposed method on the simulated data. I
 
 ```python -u ./code/example.py```
 
-# Reproduce the results in the paper
+## Reproduce the results in the paper
 
 The commands to reproduce the results in the paper are in the file ```./code/cmd.sh```.
 
