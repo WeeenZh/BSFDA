@@ -1,6 +1,6 @@
 ![bsfda](https://github.com/user-attachments/assets/28ee48f2-2e53-4e6f-92c9-d0d2cdbc367b)
 
-This repository contains the implementation of BSFDA (Bayesian Scalable Functional Data Analysis) proposed in the paper "Integrated Model Selection and Scalability in Functional Data Analysis through Bayesian Learning". It handles irregularly sampled curves and 4-D spatio-temporal fields while automatically choosing the number of principal components and kernel bases.
+This repository contains the implementation of BSFDA (Bayesian Scalable Functional Data Analysis) proposed in the paper ["Integrated Model Selection and Scalability in Functional Data Analysis through Bayesian Learning"](https://www.mdpi.com/1999-4893/18/5). It handles irregularly sampled curves and 4-D spatio-temporal fields while automatically choosing the number of principal components and kernel bases.
 
 * **Active-subspace variational inference** — scales linearly in number of observations.
 * **Automatic rank & basis selection** via sparsity-promoting priors.
